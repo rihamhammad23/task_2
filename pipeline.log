@@ -1,0 +1,5 @@
+[Tue Sep 15 13:19:09 EEST 2026] Pipeline started on samples
+[Tue Sep 15 13:19:09 EEST 2026] Processing samples/sample1.txt for operation: scan
+[Tue Sep 15 13:19:09 EEST 2026] Processing samples/sample2.txt for operation: scan
+[Tue Sep 15 13:19:09 EEST 2026] Processing samples/sample3.txt for operation: scan
+[Tue Sep 15 13:19:09 EEST 2026] Pipeline completed successfully.

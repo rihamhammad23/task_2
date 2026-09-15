@@ -1,0 +1,4 @@
+--- Starting Pipeline Run: Tue Sep 15 13:19:09 EEST 2026 ---
+samples/sample1.txt -> Result: DNA Sample Detected
+samples/sample2.txt -> Result: Non-DNA Sample (RNA/Protein)
+samples/sample3.txt -> Result: Non-DNA Sample (RNA/Protein)
